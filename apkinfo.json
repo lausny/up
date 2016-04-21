@@ -1,0 +1,25 @@
+{
+    "infos": [
+        {
+            "packageName": "com.lausny.ocvpnaiofree",
+            "updateEnable": true,
+            "forceUpdate": false,
+            "versionCode": 44,
+            "updateUrl": "http://dd.myapp.com/16891/FCD9F5775780D463332210000B05EC07.apk"
+        },
+        {
+            "packageName": "com.lausny.ocvpnaio.allpay",
+            "updateEnable": true,
+            "forceUpdate": false,
+            "versionCode": 35,
+            "updateUrl": "http://184.154.123.247/update/app-allPay-release.apk"
+        },
+        {
+            "packageName": "com.lausny.archievpnfree.go",
+            "updateEnable": true,
+            "forceUpdate": false,
+            "versionCode": 120,
+            "updateUrl": "https://raw.githubusercontent.com/juicybeast1/a/master/archie-119.apk"
+        }	
+    ]
+}
